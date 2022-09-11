@@ -11,7 +11,7 @@ My first project that I tried to make  responsive to a reasonable degree. I lear
 ### Links
 
 [Live Website](https://jordan-mcgalliard.github.io/the-letter-store/)<br/>
-[GitHub Repo](https://github.com/jordan-mcgalliard/the-letter-store/settings)
+[GitHub Repo](https://github.com/jordan-mcgalliard/the-letter-store/)
 
 ### Features
 
