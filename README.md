@@ -10,8 +10,8 @@ My first project that I tried to make  responsive to a reasonable degree. I lear
 
 ### Links
 
-[Live Website](https://jordan-mcgalliard.github.io/the-letter-store/)<br/>
-[GitHub Repo](https://github.com/jordan-mcgalliard/the-letter-store/)
+[Live Website](https://jmcgallia.github.io/the-letter-store/)<br/>
+[GitHub Repo](https://github.com/jmcgallia/the-letter-store/)
 
 ### Features
 
@@ -53,8 +53,8 @@ A memory game where you try to select 12 landmarks without choosing the same one
 
 ### Links
 
-[Live Website](https://jordan-mcgalliard.github.io/landmarks-memory-game/)<br/>
-[GitHub Repo](https://github.com/jordan-mcgalliard/landmarks-memory-game)
+[Live Website](https://jmcgallia.github.io/landmarks-memory-game/)<br/>
+[GitHub Repo](https://github.com/jmcgallia/landmarks-memory-game)
 
 ### Features
 
@@ -87,8 +87,8 @@ A reading checklist website made to practice my HTML, CSS, and JavaScript skills
 
 ### Links
 
-[Live Website](https://jordan-mcgalliard.github.io/library/)<br/>
-[GitHub Repo](https://github.com/jordan-mcgalliard/library)
+[Live Website](https://jmcgallia.github.io/library/)<br/>
+[GitHub Repo](https://github.com/jmcgallia/library)
 
 ### Features
 
@@ -117,8 +117,8 @@ I made a working calculator, which includes the basic operations and negative nu
 
 ### Links
 
-[Live Website](https://jordan-mcgalliard.github.io/calculator/)<br/>
-[GitHub Repo](https://github.com/jordan-mcgalliard/calculator)
+[Live Website](https://jmcgallia.github.io/calculator/)<br/>
+[GitHub Repo](https://github.com/jmcgallia/calculator)
 
 ### Features
 
@@ -150,8 +150,8 @@ I made a working Etch-a-Sketch. I practiced my CSS skills, DOM Manipulation with
 
 ### Links
 
-[Live Website](https://jordan-mcgalliard.github.io/etch-a-sketch/)<br/>
-[GitHub Repo](https://github.com/jordan-mcgalliard/etch-a-sketch)
+[Live Website](https://jmcgallia.github.io/etch-a-sketch/)<br/>
+[GitHub Repo](https://github.com/jmcgallia/etch-a-sketch)
 
 ### Features
 
@@ -182,8 +182,8 @@ I made a landing page for a website. The design was based off a practice design 
 
 ### Links
 
-[Live Website](https://jordan-mcgalliard.github.io/odin-landing-page/)<br/>
-[GitHub Repo](https://github.com/jordan-mcgalliard/odin-landing-page)
+[Live Website](https://jmcgallia.github.io/odin-landing-page/)<br/>
+[GitHub Repo](https://github.com/jmcgallia/odin-landing-page)
 
 ### Features
 
